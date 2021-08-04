@@ -1,8 +1,9 @@
 {
-    "name": "spatie/laravel-export",
+    "name": "gradosevic/laravel-export",
     "description": "Create a static site bundle from a Laravel app",
     "keywords": [
         "spatie",
+        "gradosevic",
         "laravel-export"
     ],
     "homepage": "https://github.com/spatie/laravel-export",
